@@ -26,27 +26,6 @@ Skills:
 - PowerApps
 - Python
 
-Experience:
-HCA Healthcare, USA (May 2022 - Current)
-- Configured and maintained TCP/IP networks, ensuring seamless data transmission and network reliability.
-- Managed and optimized OSPF and BGP routing protocols, enhancing network scalability and fault tolerance.
-- Deployed VLANs and administered STP to eliminate network loops and ensure redundancy in a switched network.
-- Implemented and managed Cisco ASA and Palo Alto firewalls, ensuring robust network security and access control.
-- Conducted packet analysis using Wireshark for troubleshooting and diagnosing network issues.
-- Developed and implemented Python, Bash, and Perl scripts for automating network configuration and management tasks.
-- Extensive knowledge in configuring and deploying Next Generation Firewalls including Palo Alto, Cisco ASA, and Checkpoint Firewalls.
-
-Hexaware Technologies, India (Aug 2018 - Dec 2020)
-- Implemented VLANs to segment network traffic, enhancing security and optimizing network performance.
-- Configured EIGRP and RIP for efficient internal routing, ensuring optimal traffic flow and network stability.
-- Utilized SNMP and NetFlow for proactive network monitoring and performance analysis, ensuring optimal network health.
-- Implemented MPLS and SD-WAN technologies to optimize WAN connectivity and improve network performance.
-- Administered DHCP and DNS services for automatic IP address assignment and domain name resolution.
-- Monitored data center devices in local & remote sites.
-- Configured and upgraded networking devices including Cisco switches and routers using command-line interface.
-- Experience with FTP, TFTP, DHCP configuration and its setup.
-- Experience in Designing and assisting in deploying Cisco ASA firewall-based devices, configuring VPNs, IPS and IPsec.
-
 Education:
 - Master’s in Computer Science, Texas A&M University-Corpus Christi, 01/2021 - 12/2022
 - Bachelor’s in Information Technology, Institute of Aeronautical Engineering, Hyderabad, India, 01/2016 - 09/2020
